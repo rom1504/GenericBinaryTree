@@ -21,4 +21,5 @@ HEADERS  +=  model/genericnode.h \
 QMAKE_CXXFLAGS += -std=c++11
 
 OTHER_FILES += \
-    README.md
+    README.md \
+    .gitignore

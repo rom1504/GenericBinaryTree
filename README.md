@@ -10,4 +10,4 @@ The advised method to use this depo is this :
 * add genericbinarytree as a library of your project (internal library)
 * compile
 
-You can find a simple example there :
+You can find a simple example there : https://github.com/rom1504/BinaryTreeExample
