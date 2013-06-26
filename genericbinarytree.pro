@@ -19,3 +19,6 @@ HEADERS  +=  model/genericnode.h \
     view/treeviewerimplementation.h
 
 QMAKE_CXXFLAGS += -std=c++11
+
+OTHER_FILES += \
+    README.md
